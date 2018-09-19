@@ -1,1 +1,3 @@
-This is a test
+## READ ME 
+
+Exercise in reponsive design
